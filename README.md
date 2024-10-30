@@ -1,5 +1,9 @@
 # Sand Game
 
+Demo:
+
+[![Sand game](https://img.youtube.com/vi/g1kRQylgCfY/0.jpg)](https://www.youtube.com/watch?v=g1kRQylgCfY)
+
 This Java program is a sand simulation game where users can interact with different types of particles such as sand, water, mud, and floor. The game uses the `DUDraw` library for drawing and handling user interactions.
 
 ## Features
